@@ -13,13 +13,13 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://username.github.io/
 baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+title: Mian Muhammad Asif Akhtar
+author: Mian Muhammad Asif Akhtar
+description: A full stak web developer
 avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
+email: se.mianasif@email.com
+github: mianmohammad # username
+twitter: se_mianasif
 linkedin: username
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
