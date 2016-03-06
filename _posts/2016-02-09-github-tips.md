@@ -18,3 +18,11 @@ if you have clone a repository from github and then you also want to fetch all o
 done
 </code>
 </pre>
+<p>
+if you want to delete a branch locally
+</p>
+
+<pre><code>
+1) git branch -d the_local_branch (delete branch locally)
+</code>
+</pre>
