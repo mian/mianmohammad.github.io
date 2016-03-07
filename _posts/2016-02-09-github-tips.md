@@ -23,6 +23,16 @@ if you want to delete a branch locally
 </p>
 
 <pre><code>
-1) git branch -d the_local_branch (delete branch locally)
+git branch -d the_local_branch (delete branch locally)
+</code>
+</pre>
+
+<p>
+if you want to Rename the git branch locally
+</p>
+
+<pre><code>
+1) git branch -m <oldname> <newname>
+2) git branch -m <newname> (Rename the current branch)
 </code>
 </pre>
