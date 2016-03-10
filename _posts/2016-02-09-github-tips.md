@@ -19,11 +19,12 @@ done
 </code>
 </pre>
 <p>
-if you want to delete a branch locally
+if you want to delete a branch locally and remotly
 </p>
 
 <pre><code>
 git branch -d the_local_branch (delete branch locally)
+git push origin --delete <branchName> (delete remote branch)
 </code>
 </pre>
 
