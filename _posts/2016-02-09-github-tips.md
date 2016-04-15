@@ -37,3 +37,13 @@ if you want to Rename the git branch locally
 2) git branch -m <newname> (Rename the current branch)
 </code>
 </pre>
+
+<p>
+if you want to see the history of your branch
+</p>
+
+<pre><code>
+1) git log --author [author-name]
+2) git log --since [integer].days.ago
+</code>
+</pre>
