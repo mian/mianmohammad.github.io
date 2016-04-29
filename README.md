@@ -17,7 +17,7 @@ hosted in [Github pages](https://pages.github.com/).
 ## Screenshots
 
 **Home page**
-![home page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen1.png)
+![home page](https://raw.githubusercontent.com/mianmohammad/mianmohammad.github.io/master/assets/images/home%20page.png)
 
 **Blog page**
 ![blog page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen2.png)
