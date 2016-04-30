@@ -1,5 +1,5 @@
 
-# Sustain
+# Mian Asif Blog
 
 [![Build Status](https://secure.travis-ci.org/biomadeira/sustain.png?branch=gh-pages)](http://travis-ci.org/biomadeira/sustain)
 [![Ruby](https://img.shields.io/badge/ruby-2.1,_2.2-blue.svg?style=flat)](http://travis-ci.org/biomadeira/sustain)
@@ -11,7 +11,7 @@ hosted in [Github pages](https://pages.github.com/).
 
 ## View the live demo
 
-[Sustain Live Demo](https://biomadeira.github.io/sustain)
+[Sustain Live Demo](https://mianasif.info)
 
 
 ## Screenshots
