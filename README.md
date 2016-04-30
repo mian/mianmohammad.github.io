@@ -37,18 +37,9 @@ Edit the site attributes in *_config.yml* and edit the various entries in *_incl
 
 ## Issues and contributing 
 
-I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. If you run into any problems please log them on the [issue tracker](https://github.com/biomadeira/sustain/issues).
+I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. If you run into any problems please log them on the [issue tracker](https://github.com/mianmohammad/mianmohammad.github.io/issues).
 
 Feel free pull-request your patches and fixes.
-
-#### Contributors
-
-[Sumit Murari](https://github.com/murarisumit), November 2015
-
-
-## Thanks 
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
 
 
 ## Copyright & License
