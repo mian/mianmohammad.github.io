@@ -11,7 +11,7 @@ hosted in [Github pages](https://pages.github.com/).
 
 ## View the live demo
 
-[Sustain Live Demo](https://mianasif.info)
+[Mian Asif Live Demo](https://mianasif.info)
 
 
 ## Screenshots
