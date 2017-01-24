@@ -5,6 +5,7 @@ tags:
 - Jquery
 - Toast
 - Monkey-toast
+disqus: true
 ---
 
 > This is Markdown Cheatsheet Demo for **Sustain**, this Jekyll theme. Please check the raw content of this file for the markdown usage.
