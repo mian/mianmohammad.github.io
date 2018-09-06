@@ -90,6 +90,9 @@ Popular question: “Is ASCII a character set or is it an encoding” ? ASCII is
 <p>MBCS Multiple-byte character set; a character set encoded with a variable number of bytes per character, such as UTF-8.The following table lists some common character encodings; however, there are many additional character encodings that browsers and web servers support:
 </p>
 
+<p>
+<img src="https://cdn-images-1.medium.com/max/1600/1*3XynzglHm3-iRjmkhU25gg.png">
+</p>
 
 </p>
 The World Wide Web Consortium maintains a list of all character encodings supported by the Internet. You can find this information at 
