@@ -94,7 +94,7 @@ Popular question: “Is ASCII a character set or is it an encoding” ? ASCII is
 <img src="https://cdn-images-1.medium.com/max/1600/1*3XynzglHm3-iRjmkhU25gg.png" width="60%">
 </p>
 
-</p>
+<p>
 The World Wide Web Consortium maintains a list of all character encodings supported by the Internet. You can find this information at 
 <a href="www.w3.org/International/O-charset.html" target="_blank">www.w3.org/International/O-charset.html</a>
 </p>
