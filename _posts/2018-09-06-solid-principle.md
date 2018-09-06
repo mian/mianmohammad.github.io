@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  S.O.L.I.D: The First 5 Principles of OOD
+title:  SOLID The First 5 Principles of OOD
 tags:
 - programming
 - Software Development
