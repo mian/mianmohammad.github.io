@@ -91,7 +91,7 @@ Popular question: “Is ASCII a character set or is it an encoding” ? ASCII is
 </p>
 
 <p>
-<img src="https://cdn-images-1.medium.com/max/1600/1*3XynzglHm3-iRjmkhU25gg.png" width="60%">
+<img src="https://cdn-images-1.medium.com/max/1600/1*3XynzglHm3-iRjmkhU25gg.png" width="85%">
 </p>
 
 <p>
